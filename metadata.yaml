@@ -1,0 +1,33 @@
+_repo: Back-HomeBeing-the-Narrative-of-Judge-Priest-and-his-People_44223
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: Series of articles from The Saturday Evening Post collected and presented
+  to John Wilson Townsend by Irvin S. Cobb; with comments written by Cobb.
+gutenberg_issued: '2013-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+tableOfContents: Words and music -- The county trot -- Five hundred dollars reward
+  -- A judgment come to Daniel -- Up Clay Street -- When the fighting was good --
+  Stratagem and spoils -- The mob from Massac -- A dogged under dog -- Black and white.
+title: 'Back Home: Being the Narrative of Judge Priest and His People'
+url: http://www.gutenberg.org/ebooks/44223
